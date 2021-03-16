@@ -1,0 +1,20 @@
+.social-link{
+    background: #3F4B50;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    float: left;
+  
+}
+
+.social-link a{
+    background: #3F4B50;
+    width: 150px;
+    text-align: center;
+    font-size: 22px;
+    margin-right: 8px;
+  
+}
+
+
+
